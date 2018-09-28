@@ -1,5 +1,5 @@
 #!/bin/bash
-# variables2
+# variables22
 echo "Hello World"
 echo "AGENT_WORKFOLDER is $AGENT_WORKFOLDER"
 echo "AGENT_WORKFOLDER contents:"
